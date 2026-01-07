@@ -1,0 +1,122 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="zrd20v8DjZvpHHDiAt2T">
+    <mxGraphModel dx="1716" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i3V8kJMyMgjeepb0MFcB-1" target="i3V8kJMyMgjeepb0MFcB-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-1" value="MULAI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i3V8kJMyMgjeepb0MFcB-2" target="i3V8kJMyMgjeepb0MFcB-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-2" value="TAMPILAN MENU" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i3V8kJMyMgjeepb0MFcB-4" target="i3V8kJMyMgjeepb0MFcB-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i3V8kJMyMgjeepb0MFcB-4" target="i3V8kJMyMgjeepb0MFcB-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i3V8kJMyMgjeepb0MFcB-4" target="i3V8kJMyMgjeepb0MFcB-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="i3V8kJMyMgjeepb0MFcB-4" target="i3V8kJMyMgjeepb0MFcB-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="388" y="220" />
+              <mxPoint x="710" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-4" value="PILIH&lt;div&gt;MENU&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="220" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i3V8kJMyMgjeepb0MFcB-7" target="i3V8kJMyMgjeepb0MFcB-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-7" value="1.LIHAT KENDARAAN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="i3V8kJMyMgjeepb0MFcB-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-9" value="JENIS KENDARAAN&lt;div&gt;KODE&amp;nbsp;&lt;/div&gt;&lt;div&gt;JENIS&amp;nbsp;&lt;/div&gt;&lt;div&gt;HARGA SETATUS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i3V8kJMyMgjeepb0MFcB-12" target="i3V8kJMyMgjeepb0MFcB-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-12" value="2.SEWA KENDARAAN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="295" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i3V8kJMyMgjeepb0MFcB-14" target="i3V8kJMyMgjeepb0MFcB-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-14" value="MASUKAN KODE KENDARAAN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="295" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i3V8kJMyMgjeepb0MFcB-16" target="i3V8kJMyMgjeepb0MFcB-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-16" value="LAMA SEWANYA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="295" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="910" as="sourcePoint" />
+            <mxPoint x="360" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="910" />
+              <mxPoint x="460" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-18" value="TOTAL BAYAR" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="295" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i3V8kJMyMgjeepb0MFcB-23" target="i3V8kJMyMgjeepb0MFcB-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-23" value="3.KEMBALIKAN KENDARAAN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="505" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i3V8kJMyMgjeepb0MFcB-25" target="i3V8kJMyMgjeepb0MFcB-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-25" value="MASUKAN KODE KNDARAAN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="505" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="i3V8kJMyMgjeepb0MFcB-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="565" y="600" />
+              <mxPoint x="485" y="600" />
+              <mxPoint x="485" y="280" />
+              <mxPoint x="490" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-27" value="KENDARAAN BERHASIL DI KEMBALIKAN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="505" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="i3V8kJMyMgjeepb0MFcB-30" target="i3V8kJMyMgjeepb0MFcB-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-30" value="4.KELUAR" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3V8kJMyMgjeepb0MFcB-32" value="TERIMA KASIH" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
